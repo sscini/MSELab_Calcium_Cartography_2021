@@ -11,6 +11,28 @@ Anyone can run a sample of the code used in the manuscript by using the [Google 
 - Intercellular calcium waves
 - Global fluttering calcium activity
 
+# Open-source license agreement
+- This code is made publicly available for use under the [GNU Lesser General Public License, version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
+- You can find the license agreement for MAPPER [here](https://github.com/MulticellularSystemsLab/MAPPER/blob/main/LICENSE)
+- We kindly ask users of the code and any derivative work to cite the original publication:
+
+```
+Soundarrajan, D. K., Huizar, F. J., Paravitorghabeh, R., Robinett, T. & Zartman, J. J. From spikes to intercellular waves: Tuning intercellular calcium signaling dynamics modulates organ size control. PLOS Computational Biology 17, e1009543 (2021).
+```
+
+The below licensing statements are verbatim statements from the Free and Open Source Software Auditing (FOSSA) team originating from [this](https://fossa.com/blog/open-source-software-licenses-101-lgpl-license/) webpage
+
+Users of this code must:
+- Include a copy of the full license text and the original copyright notice
+- Make available the source code when you distribute a derivative work based on the licensed library
+- License any derivative works of the library under the same or later version of the LGPL or GPL
+
+The LGPL license allows users of the licensed code to:
+- Use the code commercially: Like GPL, LGPL imposes no conditions on using the code in software that’s sold commercially
+- Change the code: Users can rework the code, but if they distribute these modifications, they must release these updates in source code form
+- Place warranty: Distributors of the original code can offer their own warranty on the licensed software
+
+
 # Instructions to run the code on a personal machine
 1. You can download all of the associated code [here](https://github.com/fjhuizar/MSELab_Calcium_Cartography_2021/archive/master.zip)
   - Each notebook is labeled corresponding to its associated figure in the main text of the manuscript.
@@ -49,4 +71,4 @@ We would like to thank [Trent Robinett](https://www.linkedin.com/in/trent-robine
 
 The work in this manuscript was supported by NIH Grant R35GM124935 and NSF Award CBET-1553826. The authors gratefully acknowledge the Notre Dame Center for Research Computing (CRC) for providing computational facilities in addition to [members of the Zartman Lab](http://sites.nd.edu/zartmanlab/members/) for helpful discussions and feedback.
 
-# Repository last updated: August 03, 2021 6:00PM EST
+# Repository last updated: February 27, 2021 7:00PM EST
