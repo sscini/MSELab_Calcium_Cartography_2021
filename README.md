@@ -13,7 +13,7 @@ Anyone can run a sample of the code used in the manuscript by using the [Google 
 
 # Open-source license agreement
 - This code is made publicly available for use under the [GNU Lesser General Public License, version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
-- You can find the license agreement for MAPPER [here](https://github.com/MulticellularSystemsLab/MAPPER/blob/main/LICENSE)
+- You can find the license agreement for MAPPER [here](https://github.com/MulticellularSystemsLab/MSELab_Calcium_Cartography_2021/blob/master/LICENSE)
 - We kindly ask users of the code and any derivative work to cite the original publication:
 
 ```
